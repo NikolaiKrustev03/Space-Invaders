@@ -1,4 +1,3 @@
-import math
 import random
 from typing import List
 
@@ -16,15 +15,15 @@ black = (0, 0, 0)
 white = (255, 255, 255)
 
 # Background
-background = pygame.image.load('aRTU1s.png')
+background = pygame.image.load('Icons/aRTU1s.png')
 background_scaledown = pygame.transform.scale(background, (screen_width, screen_height))
 
 # Title and Icons
 pygame.display.set_caption("Space Invaders")
-icon_player = pygame.image.load('space_invaders.png')
+icon_player = pygame.image.load('Icons/space_invaders.png')
 pygame.display.set_icon(icon_player)
-icon_enemy = pygame.image.load('enemy.png')
-icon_bullet = pygame.image.load('bullet.png')
+icon_enemy = pygame.image.load('Icons/enemy.png')
+icon_bullet = pygame.image.load('Icons/bullet.png')
 bullet_rotated = pygame.transform.rotate(icon_bullet, 45)
 bullet_scaledown = pygame.transform.scale(bullet_rotated,
                                           (bullet_rotated.get_width() // 3, bullet_rotated.get_height() // 3))
