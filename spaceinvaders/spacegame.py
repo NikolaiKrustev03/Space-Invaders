@@ -133,7 +133,7 @@ def game():
         # Background scrolling
         bg_y += player_speed * dt
         if bg_y > background_scaledown.get_height():
-            bg_y = 0  # Reset to the top for seamless looping
+            bg_y = 0
 
         # Draw the background
         screen.blit(background_scaledown, (0, bg_y))
