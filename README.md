@@ -29,6 +29,3 @@ To get started with Space Invaders, follow these steps:
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/NikolaiKrustev03/slot-machine.git
-
-
- 
