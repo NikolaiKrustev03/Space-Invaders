@@ -19,7 +19,7 @@ Space Invaders is a classic endless shooter game where you control a spaceship, 
 - **Endless Gameplay**: Survive as long as you can and shoot as many enemies as possible.
 - **Simple Controls**: Easy-to-use controls for a smooth gaming experience.
 - **Score Tracking**: Keep track of your high score.
-- 
+
 ## How to play
 WASD to move, SPACE to shoot.
 ## Installation
