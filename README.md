@@ -6,8 +6,9 @@ Welcome to my Space Invaders project! This repository contains a simple endless 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [How to Play](#how-to-play)
+- [Installation](#installation)
+
 
 ## Introduction
 
@@ -25,9 +26,9 @@ WASD to move, SPACE to shoot.
 
 To get started with Space Invaders, follow these steps:
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/NikolaiKrustev03/slot-machine.git
 
 
  
